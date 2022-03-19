@@ -10,7 +10,6 @@
 --------------------------------------------------------------------------------------------------------------------------
 
 ### Skills and proficiency
-##### I used to work as a Head of Sales for the company JENTY and as a Head of Marketing for the company Krafttrans. 
   * Proficiency:
     * Proficiency in Sales management & CRM
     * Experience in conducting internal audits for reengineering business processes
@@ -24,7 +23,20 @@
     * Programming (Java)
     * Designing databases, database management systems (MySQL)
     * VSCode / IntelliJ IDEA / Microsoft SQL Server / HeidiSQL / Enterprise Architect
-	
+---------------------------------------------------------------------------------------------------------------------------	
+### Experience
+#### KNOMARY
+  * Deputy Director for Client Relations
+  * 2021-2022
+#### FORSEGA
+  * Chief Commercial Officer
+  * 2020-2021
+#### JENTY
+  * Head of Sales
+  * 2009-2020
+#### KRAFTTRANS
+  * Marketing Director
+  * 2006-2009
 ---------------------------------------------------------------------------------------------------------------------------
 
 ### Code example
